@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		7D0867B922EF87970050CDAA /* autumn_1440x960.heic in Resources */ = {isa = PBXBuildFile; fileRef = 7D0867B822EF87970050CDAA /* autumn_1440x960.heic */; };
 		7DF8BAF022EF7BA90082C920 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DF8BAEF22EF7BA90082C920 /* AppDelegate.swift */; };
 		7DF8BAF222EF7BA90082C920 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DF8BAF122EF7BA90082C920 /* ViewController.swift */; };
 		7DF8BAF522EF7BA90082C920 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7DF8BAF322EF7BA90082C920 /* Main.storyboard */; };
@@ -16,7 +15,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		7D0867B822EF87970050CDAA /* autumn_1440x960.heic */ = {isa = PBXFileReference; lastKnownFileType = file; path = autumn_1440x960.heic; sourceTree = "<group>"; };
 		7DF8BAEC22EF7BA90082C920 /* HEIC-editor.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "HEIC-editor.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		7DF8BAEF22EF7BA90082C920 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7DF8BAF122EF7BA90082C920 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -56,7 +54,6 @@
 		7DF8BAEE22EF7BA90082C920 /* HEIC-editor */ = {
 			isa = PBXGroup;
 			children = (
-				7D0867B822EF87970050CDAA /* autumn_1440x960.heic */,
 				7DF8BAEF22EF7BA90082C920 /* AppDelegate.swift */,
 				7DF8BAF122EF7BA90082C920 /* ViewController.swift */,
 				7DF8BAF322EF7BA90082C920 /* Main.storyboard */,
@@ -125,7 +122,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7D0867B922EF87970050CDAA /* autumn_1440x960.heic in Resources */,
 				7DF8BAFA22EF7BAD0082C920 /* LaunchScreen.storyboard in Resources */,
 				7DF8BAF722EF7BAD0082C920 /* Assets.xcassets in Resources */,
 				7DF8BAF522EF7BA90082C920 /* Main.storyboard in Resources */,
